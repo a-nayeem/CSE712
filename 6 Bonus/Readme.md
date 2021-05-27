@@ -9,7 +9,7 @@ Course url: https://www.coursera.org/learn/natural-language-processing-tensorflo
 Completion status: Completed with certificate
 Documents included: Certificate and coursera screenshot
 
-### Course 1: Natural Language Processing by HSE university.
+### Course 2: Natural Language Processing by HSE university.
 Course url: https://www.coursera.org/learn/language-processing/
 Completion status: Completed, waiting for grading.
 Documents included: Grade screenshot, and coursera screenshot
